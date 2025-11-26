@@ -1,0 +1,6 @@
+diffusers>=0.29.0
+torch
+torchvision
+Pillow
+numpy
+jupyter
